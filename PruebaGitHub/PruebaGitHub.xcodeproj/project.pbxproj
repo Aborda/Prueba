@@ -216,6 +216,7 @@
 		F3040635168C75C100D8EF47 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F3040636168C75C800D8EF47 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Mensajes.strings; sourceTree = "<group>"; };
 		F3040637168C75C800D8EF47 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F3040638168C761500D8EF47 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/Mensajes.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -628,6 +629,7 @@
 				en,
 				es,
 				fr,
+				pt,
 			);
 			mainGroup = F3040535168C71E800D8EF47;
 			productRefGroup = F3040542168C71E800D8EF47 /* Products */;
@@ -706,6 +708,7 @@
 				F3040632168C759D00D8EF47 /* en */,
 				F3040634168C75C100D8EF47 /* es */,
 				F3040636168C75C800D8EF47 /* fr */,
+				F3040638168C761500D8EF47 /* pt */,
 			);
 			name = Mensajes.strings;
 			path = Classes/Idiomas;
