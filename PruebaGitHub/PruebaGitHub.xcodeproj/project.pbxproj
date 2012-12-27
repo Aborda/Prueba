@@ -44,6 +44,7 @@
 		F304061A168C71EB00D8EF47 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F3040619168C71EB00D8EF47 /* libsqlite3.dylib */; };
 		F304061C168C71EB00D8EF47 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F304061B168C71EB00D8EF47 /* libz.dylib */; };
 		F304061E168C71EB00D8EF47 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F304061D168C71EB00D8EF47 /* Settings.bundle */; };
+		F3040629168C738E00D8EF47 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F3040628168C738E00D8EF47 /* Settings.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -208,6 +209,7 @@
 		F3040619168C71EB00D8EF47 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = /usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
 		F304061B168C71EB00D8EF47 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = /usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		F304061D168C71EB00D8EF47 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		F3040628168C738E00D8EF47 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = Settings.bundle; path = Classes/Idiomas/Settings.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -530,6 +532,7 @@
 			children = (
 				F30405EF168C71EA00D8EF47 /* icons */,
 				F30405F8168C71EA00D8EF47 /* splash */,
+				F3040628168C738E00D8EF47 /* Settings.bundle */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -650,6 +653,7 @@
 				F3040614168C71EB00D8EF47 /* SFAuthorizingViewController.xib in Resources */,
 				F3040616168C71EB00D8EF47 /* SFNativeRootViewController.xib in Resources */,
 				F304061E168C71EB00D8EF47 /* Settings.bundle in Resources */,
+				F3040629168C738E00D8EF47 /* Settings.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -803,6 +807,7 @@
 				F3040623168C71EB00D8EF47 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
