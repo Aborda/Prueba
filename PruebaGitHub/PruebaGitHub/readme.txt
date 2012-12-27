@@ -6,10 +6,11 @@ You can switch between Production, Sandbox, or a custom host if needed.
 In addition, selecting Logout in Settings will force your application to logout of the current Salesforce account the next time the app is launched.
 
 Please enjoy!
-Comentario jesus.
+Comentario de jesus modificado por iñaki.
 
-Cometario Iñaki
+Cometario intermedio Iñaki
 
+Esto va a ser una locuraaaaaa
 Añado mas cometarios
 
 
